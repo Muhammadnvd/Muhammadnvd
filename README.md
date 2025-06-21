@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naveed</h1>
-<h3 align="center">A passionate frontend and full-stack developer from Pakistan</h3>
-
-- 🔭 I’m currently working on [**React Admin Dashboard**](https://github.com/Muhammadnvd)
-
-- 🌱 I’m currently learning **Next.js and TypeScript**
-
-- 👯 I’m looking to collaborate on [**Open-source MERN stack projects**](https://github.com/Muhammadnvd)
-
-- 🤝 I’m looking for help with [**Improving CI/CD workflows and scaling full-stack apps**](pitafi.nvd@gmail.com)
-
-- 💬 Ask me about **React.js, Vue.js,JavaScript, Node.js, and Express**
-
-- 📫 How to reach me **pitafi.nvd@gmail.com**
-
-- ⚡ Fun fact **I think I am funny... even when debugging 😄**
+<h3 align="center">Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
