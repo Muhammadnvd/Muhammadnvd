@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naveed</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.</h3>
+<h4 align="center">Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
