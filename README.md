@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naveed</h1>
-<h3 align="center">Senior Full Stack Developer | SaaS Architect | AI-Integrated Systems</h3>
+<h3 align="center">Senior Full Stack Developer | SaaS Architect | AI Solutions Engineer (LLMs, RAG & Automation)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammadnvd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
