@@ -2,6 +2,10 @@
 <h3 align="center">Senior Full Stack Developer | SaaS Architect | AI-Integrated Systems</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammadnvd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
 Building scalable SaaS platforms, production-grade web applications, and AI-powered tools.<br/>
 Focused on clean architecture, performance, and real-world problem solving.
 </p>
@@ -23,12 +27,10 @@ Focused on clean architecture, performance, and real-world problem solving.
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-naveed786/" target="blank">
+<a href="https://www.linkedin.com/in/muhammad-naveed786/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-&nbsp;&nbsp;
-
-
+</p>
 
 <p align="center">
 I don't just write code — I build scalable systems that solve real business problems.<br/>
